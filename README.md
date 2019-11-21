@@ -1,7 +1,7 @@
 #   METHOD USED
 #   Cameron Dargahi
 #  ​CSCI 102 – Section B
-#   Week 12 - Part A
+#   Week 12 - Part A/B
 
 PrintOutput
 This was taken form the week 10 function file that was created. 
